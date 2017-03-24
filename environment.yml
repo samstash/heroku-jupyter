@@ -9,7 +9,6 @@ dependencies:
   - mako
   - psycopg2
   - six
-  - numpy
   - sqlalchemy
   - nose
   - pip:
